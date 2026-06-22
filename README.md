@@ -57,26 +57,18 @@ The plugin helps maintain transparency by preserving historical versions of Term
 ---
 
 ## Screenshots
+## Landing Page
 
-### Landing Page
+![Landing Page](screenshots/landing-page.png)
 
-See screenshots/landing-page.png
+## Dashboard
 
-### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-See screenshots/dashboard.png
+## Blockchain Verification
 
-### Version History
+![Blockchain Verification](screenshots/blockchain-verification.png)
 
-See screenshots/version-history.png
-
-### Blockchain Verification
-
-See screenshots/blockchain.png
-
-### Settings
-
-See screenshots/settings.png
 
 ---
 
