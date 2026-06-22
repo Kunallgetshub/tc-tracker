@@ -57,7 +57,7 @@ The plugin helps maintain transparency by preserving historical versions of Term
 ---
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.PNG)
+![Dashboard](screenshots/dashboard.png)
 
 ![Landing Page](screenshots/landing-page.png)
 
@@ -65,7 +65,7 @@ The plugin helps maintain transparency by preserving historical versions of Term
 
 ![Blockchain Verification](screenshots/blockchain-verification.png)
 
-![Settings](screenshots/settings.PNG)
+![Settings](screenshots/settings.png)
 
 
 ---
