@@ -1,3 +1,4 @@
+
 # TC Tracker
 
 Blockchain-Based Terms & Conditions Monitoring Plugin for WordPress
@@ -7,6 +8,10 @@ Blockchain-Based Terms & Conditions Monitoring Plugin for WordPress
 TC Tracker is a WordPress plugin that automatically monitors website Terms & Conditions pages, detects modifications, stores version history, and verifies updates using blockchain-inspired hash verification.
 
 The plugin helps maintain transparency by preserving historical versions of Terms & Conditions documents and providing tamper-evident verification of recorded changes.
+
+
+This project is currently running in a local WordPress development environment.
+
 
 ---
 
